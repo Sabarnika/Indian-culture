@@ -3,15 +3,18 @@
 
 Ideas that showcase the rich cultural heritage and traditions of India
 
-### `npm run build`
+### `Solution`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+We aimed to develop a platform which depicts the Indian Culture by 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+=> Displaying local festivals by calendar using their location
+=> Providing traditional foods available at that particular place
+=> Displaying rituals to be followed in marriages at different states
+=> Helps to gain knowledge by giving games and dances widely practiced at those places
+=> Suggesting nearby world heritage and UNESCO Places
+=> Aims to narrate the history of the place through a story
+=> Encouraging people to learn something eagerly through quizes,who am I riddles...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
