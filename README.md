@@ -29,3 +29,11 @@ React
 TomAPI
 
 Bootstrap
+
+![Screenshot 2024-04-30 020626](https://github.com/Sabarnika/Indian-culture/assets/98590604/ad5ce206-4f7a-4502-bfb4-d3f1730d0d8b)
+![Screenshot 2024-04-30 020655](https://github.com/Sabarnika/Indian-culture/assets/98590604/30d5c636-5227-41c6-9055-6a5c9c86ebc4)
+![Screenshot 2024-04-30 020717](https://github.com/Sabarnika/Indian-culture/assets/98590604/63a6c2ed-7c8e-42ab-83c2-d2757204c36f)
+![Screenshot 2024-04-30 020741](https://github.com/Sabarnika/Indian-culture/assets/98590604/ccc34987-4812-484b-adbc-fa63299526ad)
+
+
+
